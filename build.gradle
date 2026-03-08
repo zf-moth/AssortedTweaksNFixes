@@ -134,6 +134,7 @@ dependencies {
     compileOnlyApi("maven.modrinth:death-charm:WBKuST3u")
 
     compileOnlyApi("maven.modrinth:puzzles-lib:EgWWSAhJ")
+    compileOnlyApi("fuzs.diagonalblocks:diagonalblocks-neoforge:21.1.2")
     // Etched - get from jitpack
     compileOnlyApi("com.github.jacksonhardaway:etched:${project.etched_version}")
 
